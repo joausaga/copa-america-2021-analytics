@@ -1,0 +1,24 @@
+player,pos,age,90s,tackles_tkl,tackles_tklw,tackles_def 3rd,tackles_mid 3rd,tackles_att 3rd,vsdribbles_tkl,vsdribbles_att,vsdribbles_tkl%,vsdribbles_past,pressures_press,pressures_succ,pressures_%,pressures_def 3rd,pressures_mid 3rd,pressures_att 3rd,blocks_blocks,blocks_sh,blocks_shsv,blocks_pass,int,tkl+int,clr,err,matches
+José María Giménez,DF,26.0,5.0,9,4,8,1,0,2,10,20.0,8,62,18,29.0,36,23,3,14,3,0,11,10,19,25,0,Matches
+Fernando Muslera,GK,34.0,5.0,0,0,0,0,0,0,0,,0,1,0,0.0,1,0,0,0,0,0,0,0,0,0,0,Matches
+Matías Viña,DF,23.0,4.9,10,1,3,4,3,3,8,37.5,5,66,15,22.7,28,23,15,10,0,0,10,10,20,17,0,Matches
+Edinson Cavani,FW,33.0,4.7,3,1,1,1,1,2,6,33.3,4,65,10,15.4,8,28,29,1,0,0,1,5,8,2,0,Matches
+Federico Valverde,MF,22.0,4.6,14,10,3,8,3,3,14,21.4,11,80,27,33.8,17,43,20,3,0,0,3,8,22,1,0,Matches
+Diego Godín,DF,34.0,4.5,5,4,3,2,0,3,8,37.5,5,43,17,39.5,26,14,3,5,1,0,4,5,10,14,0,Matches
+Luis Suárez,FW,34.0,4.2,2,1,0,1,1,2,3,66.7,1,21,5,23.8,2,10,9,1,0,0,1,1,3,3,0,Matches
+Matías Vecino,MF,29.0,3.8,17,10,6,10,1,7,13,53.8,6,83,30,36.1,28,40,15,11,2,0,9,5,22,8,0,Matches
+Giorgian De Arrascaeta,MF,26.0,2.9,5,5,0,2,3,1,2,50.0,1,59,15,25.4,6,31,22,5,0,0,5,2,7,0,0,Matches
+Nicolás De La Cruz,MF,23.0,2.9,9,4,2,7,0,4,9,44.4,5,88,24,27.3,25,45,18,4,0,0,4,7,16,0,0,Matches
+Nahitan Nández,"DF,MF",25.0,4.0,13,7,7,3,3,5,13,38.5,8,72,26,36.1,31,27,14,8,0,0,8,6,19,6,0,Matches
+Rodrigo Bentancur,MF,23.0,2.8,11,6,5,4,2,3,9,33.3,6,76,18,23.7,27,35,14,10,1,0,9,4,15,3,0,Matches
+Giovanni González,DF,26.0,1.3,1,1,0,0,1,1,4,25.0,3,20,7,35.0,9,10,1,3,0,0,3,1,2,3,0,Matches
+Lucas Torreira,MF,24.0,1.0,3,1,0,2,1,1,3,33.3,2,24,3,12.5,9,8,7,1,0,0,1,1,4,1,0,Matches
+Facundo Torres,MF,20.0,1.3,3,2,1,2,0,1,3,33.3,2,46,10,21.7,9,31,6,2,0,0,2,2,5,0,0,Matches
+Martín Cáceres,"DF,MF",33.0,1.0,2,2,2,0,0,2,2,100.0,0,8,3,37.5,3,3,2,1,0,0,1,0,2,1,0,Matches
+Sebastián Coates,DF,30.0,0.5,2,1,2,0,0,2,2,100.0,0,7,3,42.9,6,1,0,2,2,0,0,2,4,5,0,Matches
+Brian Ocampo,MF,21.0,0.3,2,0,2,0,0,2,3,66.7,1,9,0,0.0,8,1,0,0,0,0,0,1,3,0,0,Matches
+Fernando Gorriarán,MF,26.0,0.1,1,1,1,0,0,0,1,0.0,1,6,2,33.3,5,1,0,0,0,0,0,0,1,0,0,Matches
+Jonathan Rodríguez,MF,27.0,0.1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Matches
+Maxi Gómez,FW,24.0,0.0,0,0,0,0,0,0,0,,0,3,0,0.0,0,2,1,0,0,0,0,0,0,0,0,Matches
+Squad Total,,28.3,5.0,112,61,46,47,19,44,113,38.9,69,839,233,27.8,284,376,179,81,9,0,72,70,182,89,0,
+Opponent Total,,27.7,5.0,79,50,49,19,11,30,100,30.0,70,774,228,29.5,321,313,140,80,18,0,62,78,157,118,1,

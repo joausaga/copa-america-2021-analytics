@@ -1,0 +1,27 @@
+player,pos,age,90s,standard_gls,standard_sh,standard_sot,standard_sot%,standard_sh/90,standard_sot/90,standard_g/sh,standard_g/sot,standard_dist,standard_fk,standard_pk,standard_pkatt,expected_xg,expected_npxg,expected_npxg/sh,expected_g-xg,expected_np:g-xg,matches
+Adrian Jusino,DF,28.0,4.0,0,1,1,100.0,0.25,0.25,0.0,0.0,19.8,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+Leonel Justiniano,MF,28.0,3.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Erwin Saavedra,"MF,DF",24.0,3.5,2,5,4,80.0,1.43,1.15,0.2,0.25,20.6,0,1,1,1.1,0.4,0.07,0.9,0.6,Matches
+Roberto Fernández,"DF,MF",21.0,3.2,0,3,1,33.3,0.94,0.31,0.0,0.0,25.7,0,0,0,0.2,0.2,0.07,-0.2,-0.2,Matches
+Diego Bejarano,DF,29.0,3.0,0,3,0,0.0,1.0,0.0,0.0,,15.7,0,0,0,0.2,0.2,0.08,-0.2,-0.2,Matches
+Carlos Lampe,GK,33.0,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Jairo Quinteros,DF,19.0,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Ramiro Vaca,MF,21.0,3.0,0,3,1,33.3,1.0,0.33,0.0,0.0,25.1,0,0,0,0.1,0.1,0.03,-0.1,-0.1,Matches
+Gilbert Álvarez,FW,28.0,2.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Jeyson Chura,"FW,MF",18.0,1.9,0,3,1,33.3,1.61,0.54,0.0,0.0,25.3,0,0,0,0.1,0.1,0.02,-0.1,-0.1,Matches
+Juan Carlos Arce,MF,35.0,1.7,0,2,0,0.0,1.15,0.0,0.0,,27.0,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+Boris Cespedes,MF,25.0,1.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Rodrigo Ramallo,FW,30.0,1.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+José Sagredo,DF,26.0,1.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Rubén Cordano,GK,22.0,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Luis Haquín,DF,23.0,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Enrique Flores,"DF,MF",26.0,0.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Moisés Villarroel Angulo,MF,22.0,0.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Jaume Cuéllar,"FW,MF",19.0,0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Danny Bejarano,MF,27.0,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Henry Vaca,"MF,FW",23.0,0.8,0,2,0,0.0,2.4,0.0,0.0,,20.9,1,0,0,0.1,0.1,0.04,-0.1,-0.1,Matches
+Erwin Sánchez,MF,28.0,0.4,0,1,1,100.0,2.31,2.31,0.0,0.0,31.4,0,0,0,0.0,0.0,0.01,0.0,0.0,Matches
+Diego Wayar,"DF,MF",27.0,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Marcelo Martins Moreno,FW,33.0,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+Squad Total,,26.3,4.0,2,23,9,39.1,5.75,2.25,0.04,0.11,22.8,1,1,1,1.8,1.1,0.05,0.2,-0.1,
+Opponent Total,,28.7,4.0,9,88,42,47.7,22.0,10.5,0.09,0.19,15.0,1,1,1,13.1,12.3,0.15,-4.1,-4.3,

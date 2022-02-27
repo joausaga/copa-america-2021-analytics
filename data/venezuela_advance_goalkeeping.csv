@@ -1,0 +1,5 @@
+player,pos,age,90s,goals_ga,goals_pka,goals_fk,goals_ck,goals_og,expected_psxg,expected_psxg/sot,expected_psxg+/-,expected_/90,launched_cmp,launched_att,launched_cmp%,passes_att,passes_thr,passes_launch%,passes_avglen,goalkicks_att,goalkicks_launch%,goalkicks_avglen,crosses_opp,crosses_stp,crosses_stp%,sweeper_#opa,sweeper_#opa/90,sweeper_avgdist,matches
+Wuilker Faríñez,GK,22.0,3.0,3,0,0,1,0,4.9,0.31,1.9,0.63,15,47,31.9,65,14,44.6,41.3,31,58.1,46.3,32,3,9.4,1,0.33,12.2,Matches
+Joel Graterol,GK,23.0,1.0,3,1,0,1,0,2.5,0.33,-0.5,-0.46,5,15,33.3,19,8,42.1,35.3,10,70.0,53.7,14,3,21.4,0,0.0,15.0,Matches
+Squad Total,,26.0,4.0,6,1,0,2,0,7.4,0.32,1.4,0.36,20,62,32.3,84,22,44.0,39.9,41,61.0,48.1,46,6,13.0,1,0.25,12.9,
+Opponent Total,,27.3,4.0,2,0,0,0,0,2.1,0.3,0.1,0.03,11,24,45.8,68,15,26.5,30.2,14,42.9,39.5,20,1,5.0,3,0.75,15.2,

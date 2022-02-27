@@ -1,0 +1,27 @@
+player,pos,age,90s,tackles_tkl,tackles_tklw,tackles_def 3rd,tackles_mid 3rd,tackles_att 3rd,vsdribbles_tkl,vsdribbles_att,vsdribbles_tkl%,vsdribbles_past,pressures_press,pressures_succ,pressures_%,pressures_def 3rd,pressures_mid 3rd,pressures_att 3rd,blocks_blocks,blocks_sh,blocks_shsv,blocks_pass,int,tkl+int,clr,err,matches
+Adrian Jusino,DF,28.0,4.0,3,3,3,0,0,0,6,0.0,6,34,12,35.3,24,9,1,7,3,0,4,5,8,26,0,Matches
+Leonel Justiniano,MF,28.0,3.8,6,4,2,3,1,1,15,6.7,14,91,22,24.2,40,41,10,8,2,0,6,8,14,5,0,Matches
+Erwin Saavedra,"MF,DF",24.0,3.5,5,1,3,0,2,3,16,18.8,13,64,13,20.3,29,17,18,2,0,0,2,8,13,5,0,Matches
+Roberto Fernández,"DF,MF",21.0,3.2,4,3,4,0,0,3,10,30.0,7,60,11,18.3,34,16,10,11,0,0,11,12,16,10,0,Matches
+Diego Bejarano,DF,29.0,3.0,4,2,4,0,0,1,4,25.0,3,54,9,16.7,24,13,17,5,0,0,5,5,9,8,0,Matches
+Carlos Lampe,GK,33.0,3.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Matches
+Jairo Quinteros,DF,19.0,3.0,3,2,3,0,0,0,2,0.0,2,26,7,26.9,21,4,1,8,6,0,2,9,12,14,0,Matches
+Ramiro Vaca,MF,21.0,3.0,2,2,1,1,0,2,11,18.2,9,80,9,11.3,24,39,17,4,0,0,4,5,7,3,0,Matches
+Gilbert Álvarez,FW,28.0,2.4,1,0,0,1,0,0,1,0.0,1,62,3,4.8,3,29,30,1,0,0,1,1,2,2,0,Matches
+Jeyson Chura,"FW,MF",18.0,1.9,2,1,2,0,0,1,5,20.0,4,65,9,13.8,16,19,30,2,0,0,2,2,4,1,0,Matches
+Juan Carlos Arce,MF,35.0,1.7,2,1,2,0,0,0,3,0.0,3,32,4,12.5,10,12,10,3,0,0,3,1,3,2,0,Matches
+Boris Cespedes,MF,25.0,1.2,2,1,1,1,0,1,4,25.0,3,39,4,10.3,19,17,3,0,0,0,0,5,7,2,0,Matches
+Rodrigo Ramallo,FW,30.0,1.5,4,4,0,2,2,0,3,0.0,3,38,8,21.1,8,15,15,1,1,0,0,3,7,2,0,Matches
+José Sagredo,DF,26.0,1.3,1,1,0,1,0,0,1,0.0,1,9,3,33.3,5,3,1,3,2,0,1,1,2,7,1,Matches
+Rubén Cordano,GK,22.0,1.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,Matches
+Luis Haquín,DF,23.0,1.0,3,2,3,0,0,1,2,50.0,1,18,6,33.3,13,5,0,1,0,0,1,2,5,2,0,Matches
+Enrique Flores,"DF,MF",26.0,0.8,1,1,0,0,1,0,1,0.0,1,6,1,16.7,0,2,4,3,0,0,3,0,1,1,0,Matches
+Moisés Villarroel Angulo,MF,22.0,0.6,2,0,0,1,1,1,2,50.0,1,14,4,28.6,5,6,3,0,0,0,0,1,3,0,0,Matches
+Jaume Cuéllar,"FW,MF",19.0,0.5,0,0,0,0,0,0,2,0.0,2,13,0,0.0,1,7,5,0,0,0,0,0,0,0,0,Matches
+Danny Bejarano,MF,27.0,1.0,2,1,1,1,0,1,4,25.0,3,18,6,33.3,10,7,1,1,0,0,1,2,4,5,0,Matches
+Henry Vaca,"MF,FW",23.0,0.8,3,0,2,0,1,0,1,0.0,1,19,1,5.3,8,4,7,1,1,0,0,0,3,0,0,Matches
+Erwin Sánchez,MF,28.0,0.4,2,1,1,1,0,2,2,100.0,0,16,4,25.0,6,10,0,1,0,0,1,0,2,0,0,Matches
+Diego Wayar,"DF,MF",27.0,0.4,1,1,1,0,0,1,2,50.0,1,11,4,36.4,9,2,0,0,0,0,0,0,1,2,0,Matches
+Marcelo Martins Moreno,FW,33.0,0.3,0,0,0,0,0,0,0,,0,6,1,16.7,1,2,3,0,0,0,0,0,0,0,0,Matches
+Squad Total,,26.3,4.0,53,31,33,12,8,18,97,18.6,79,775,141,18.2,310,279,186,62,15,0,47,70,123,97,1,
+Opponent Total,,28.7,4.0,73,47,33,27,13,22,63,34.9,41,580,175,30.2,180,262,138,38,8,0,30,64,137,73,0,

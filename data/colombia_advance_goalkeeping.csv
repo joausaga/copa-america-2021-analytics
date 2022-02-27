@@ -1,0 +1,5 @@
+player,pos,age,90s,goals_ga,goals_pka,goals_fk,goals_ck,goals_og,expected_psxg,expected_psxg/sot,expected_psxg+/-,expected_/90,launched_cmp,launched_att,launched_cmp%,passes_att,passes_thr,passes_launch%,passes_avglen,goalkicks_att,goalkicks_launch%,goalkicks_avglen,crosses_opp,crosses_stp,crosses_stp%,sweeper_#opa,sweeper_#opa/90,sweeper_avgdist,matches
+David Ospina,GK,32.0,6.3,5,0,0,1,1,4.7,0.31,0.7,0.11,29,74,39.2,127,21,42.5,37.1,35,57.1,45.9,48,3,6.3,3,0.47,13.2,Matches
+Camilo Vargas,GK,31.0,1.0,2,0,0,1,0,1.2,0.4,-0.8,-0.81,6,8,75.0,16,4,31.3,35.6,9,33.3,36.9,6,0,0.0,0,0.0,13.1,Matches
+Squad Total,,28.4,7.3,7,0,0,2,1,5.9,0.33,-0.1,-0.01,35,82,42.7,143,25,41.3,36.9,44,52.3,44.1,54,3,5.6,3,0.41,13.2,
+Opponent Total,,27.7,7.3,7,1,1,0,0,6.8,0.2,-0.2,-0.03,26,94,27.7,162,36,40.7,38.1,42,66.7,54.5,53,7,13.2,2,0.27,14.1,
