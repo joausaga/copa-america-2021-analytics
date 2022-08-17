@@ -1,4 +1,4 @@
-# Data Analytics of the Copa America Brazil 2021
+# Football Analytics of the Copa America Brazil 2021
 
 This repository contains analyses conducted in the context of the `Copa America 
 Brazil 2021`. Analyses were carried out at the level of competition, teams, and 
@@ -15,7 +15,15 @@ total are indicated in each part, as show in the figure below.
 
 ![pressing_zones](/outputs/pressing_zones.png?raw=true "Pressing Zones")
 
-### 
+### Defensive performance by teams
+
+This analysis unveils the defensive stength of teams. Here, the defensive strength
+of teams is calculated considering the number of times opponents enter into the final
+third of the pitch and the expected goal conceded. Teams that allowed few entries and 
+reduced the opponents' expected goal showed the hightest defensive performance, as
+illustrated in the figure below.  
+
+![defensive_performance](/outputs/defensive_performance.png?raw=true "Defensive Performance")
 
 
 
