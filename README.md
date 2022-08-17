@@ -36,7 +36,14 @@ of defensive corners. Teams on the up side of the table are the top performers.
 
 ## Analyses at `team` level
 
-### 
+### Attacking contributions
+
+This analysis examines who contributes the most to attacking actions in each team. 
+Attacking contributions are computed by combining the expected goal (xG) and the expected
+assists (xA) of players. xG measures the qualitity of goal chances while xA
+indicates the likelihood that a pass ended up in an assistance.
+
+![goal_contribution](/outputs/goal_contribution.png?raw=true "Goal Contribution")
 
 
 
