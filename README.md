@@ -1,7 +1,7 @@
 # Football Analytics of the Copa America Brazil 2021
 
-This repository contains analyses conducted in the context of the `Copa America 
-Brazil 2021`. Analyses were carried out at the level of competition, teams, and 
+This repository contains analyses conducted in the context of the **`Copa America 
+Brazil 2021`**. Analyses were carried out at the level of competition, teams, and 
 players. Data were extracted from FBREF and are available at `data` directory.
 Results were stored in the `outputs` directory. Some examples are presented next.
 
@@ -53,6 +53,22 @@ combine to evaluate the involvement of players in the defensive phase of their
 teams.
 
 ![defensive_actions](/outputs/defensive_actions.png?raw=true "Defensive Actions")
+
+## Analyses at `player` level
+
+### Best shooters
+
+This analysis assesses the shooting performance of midfielders and forwards. It
+combines the `xG` of players per 90 minutes played with the `xG` per shot. Players 
+on the top-right side of the figure below showed to be the best shooters.
+
+![best_shooters](/outputs/best_shooters.png?raw=true "Best shooters")
+
+## Inspiration
+
+Most of the analyses were inspired by the excellent analyses conducted by 
+[@Odriozolite](https://twitter.com/Odriozolite), [NinadB_06](https://twitter.com/NinadB_06), 
+and [@exceedingxpuns](https://twitter.com/exceedingxpuns).
 
 
 
