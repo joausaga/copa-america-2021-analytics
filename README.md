@@ -64,7 +64,24 @@ on the top-right side of the figure below showed to be the best shooters.
 
 ![best_shooters](/outputs/best_shooters.png?raw=true "Best shooters")
 
-## Inspiration
+### Ball progression
+
+This analysis focuses on the contribution of central midfielders in the ball 
+progression of their teams. The analysis includes the progressive passes and
+ball touches of players.
+
+![progressive_ball_mf](/outputs/progressive_ball_mf.png?raw=true "Ball Progression MF")
+
+## Messi vs Neymar
+
+This set of analyses explore the similarities and differences between Lionel Messi 
+and Neymar. The comparison is based on their contributions to progress the ball, 
+defense, and attack. Neymar shows to be much more influential in attack than Messi,
+as shown in the figure below.
+
+![lionel-messi_vs_neymar](/outputs/lionel-messi_vs_neymar.png?raw=true "Lionel Messi vs Neymar")
+
+## Credit
 
 Most of the analyses were inspired by the excellent analyses conducted by 
 [@Odriozolite](https://twitter.com/Odriozolite), [NinadB_06](https://twitter.com/NinadB_06), 
