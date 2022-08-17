@@ -25,6 +25,19 @@ illustrated in the figure below.
 
 ![defensive_performance](/outputs/defensive_performance.png?raw=true "Defensive Performance")
 
+### Defensive corners by teams
+
+This analysis explores the style and performance of teams during defensive corners. 
+The left side of the figure below shows the distribution of styles of corners received 
+by teams. On the right side, the table summarizes the performance of teams in the phase 
+of defensive corners. Teams on the up side of the table are the top performers.
+
+![defensive_corners](/outputs/defensive_corners.png?raw=true "Defensive Corners")
+
+## Analyses at `team` level
+
+### 
+
 
 
 
