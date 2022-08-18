@@ -61,5 +61,5 @@ This set of analyses explores the similarities and differences between Lionel Me
 
 ## Credit
 
-Most of the analyses were inspired by the excellent analyses conducted by [@Odriozolite](https://twitter.com/Odriozolite), [NinadB_06](https://twitter.com/NinadB_06), and [@exceedingxpuns](https://twitter.com/exceedingxpuns).
+Most of the analyses were inspired by the analytics of [@Odriozolite](https://twitter.com/Odriozolite), [NinadB_06](https://twitter.com/NinadB_06), and [@exceedingxpuns](https://twitter.com/exceedingxpuns). 
 
