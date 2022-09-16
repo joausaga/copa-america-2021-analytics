@@ -51,7 +51,7 @@ on the top-right side of the figure below showed to be the best shooters.
 This analysis focuses on the contribution of central midfielders in the ball 
 progression of their teams. The analysis includes the progressive passes and ball touches of players.
 
-![progressive_ball_mf](/outputs/progressive_ball_mf.png?raw=true "Ball Progression MF")
+![progressive_ball_mf](/outputs/progessive_ball_mf.png?raw=true "Ball Progression MF")
 
 ## Messi vs. Neymar
 
