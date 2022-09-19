@@ -61,8 +61,8 @@ This set of analyses explores the similarities and differences between Lionel Me
 
 ## Reports
 
-The results were published in a reported written in **`spanish`** and  organized in 
-three parts; [part 1](https://jorgesaldivar.medium.com/la-copa-am%C3%A9rica-brasil-2021-desde-el-football-analytics-b91609b7c2a3), 
+The results were published in a report written in **`spanish`** and  organized in 
+three parts: [part 1](https://jorgesaldivar.medium.com/la-copa-am%C3%A9rica-brasil-2021-desde-el-football-analytics-b91609b7c2a3), 
 [part 2](https://jorgesaldivar.medium.com/la-copa-am%C3%A9rica-brasil-2021-desde-el-football-analytics-ii-827ed553cb99), 
 and [part 3](https://jorgesaldivar.medium.com/la-copa-am%C3%A9rica-brasil-2021-desde-el-football-analytics-iii-f36ddda971d5).
 
