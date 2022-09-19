@@ -59,6 +59,13 @@ This set of analyses explores the similarities and differences between Lionel Me
 
 ![lionel-messi_vs_neymar](/outputs/lionel-messi_vs_neymar.png?raw=true "Lionel Messi vs Neymar")
 
+## Reports
+
+The results were published in a reported written in **`spanish`** and  organized in 
+three parts; [part 1](https://jorgesaldivar.medium.com/la-copa-am%C3%A9rica-brasil-2021-desde-el-football-analytics-b91609b7c2a3), 
+[part 2](https://jorgesaldivar.medium.com/la-copa-am%C3%A9rica-brasil-2021-desde-el-football-analytics-ii-827ed553cb99), 
+and [part 3](https://jorgesaldivar.medium.com/la-copa-am%C3%A9rica-brasil-2021-desde-el-football-analytics-iii-f36ddda971d5).
+
 ## Credit
 
 Most of the analyses were inspired by the analytics of [@Odriozolite](https://twitter.com/Odriozolite), [NinadB_06](https://twitter.com/NinadB_06), and [@exceedingxpuns](https://twitter.com/exceedingxpuns). 
